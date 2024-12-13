@@ -11,9 +11,9 @@ Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divis
 ## Navegación
 - [Presentación](#presentación)
 - [Videojuegos](#Videojuegos)
-- [Robotiks & Dynamics](#Robotiks&Dynamics)
+- [Robotiks & Dynamics](#Robotiks_&_Dynamics)
 - [Gear](#gear)
-- [General Software](#GeneralSoftware)
+- [General Software](#General_Software)
 
 ---
 
