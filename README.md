@@ -1,90 +1,110 @@
-
-Blog de seguimiento en linea de avance en la carrera de Ingeniería en Software por parte del CEO de PixelBits Studios , Pacheco Julio .
-# Blog PIXEL BITS STUDIOS
-
-## Descripción
-**Portafolio digital de proyectos, trabajos, ideas y seguimiento**  
-Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación, bajo la dirección de **Julio C. Pacheco**, estudiante de ingeniería en software.
-
----
-
-## Navegación
-- [Presentación](#presentación)
-- [Videojuegos](#Videojuegos)
-- [Robotiks_&_Dynamics](#Robotiks_&_Dynamics)
-- [Gear](#gear)
-- [General_Software](#General_Software)
-
----
+# PIXEL BITS Blog
 
 ## Presentación
+
 ### Seguimiento de Proyectos
-Archivo digital en línea que recopila avances, propuestas y nuevas ideas en las que trabaja PIXEL BITS.
 
-![Logo vigente de PIXELBITS studios](static/IMG/pblogo.png)
+Archivo digital en línea que recopila los avances, propuestas y nuevas ideas desarrolladas dentro del estudio PIXEL BITS.
 
-[Descargar logo sin texto y a color](static/IMG/pblogo.png)
+![Logo de PIXELBITS studios](static/IMG/pblogo.png)
+
+[Descargar Logo sin texto y a color (pblogo.png)](static/IMG/pblogo.png)
 
 ---
 
 ## Videojuegos
-### Incursión en videojuegos 2D
-Mediante **GODOT 4.3**, exploramos capacidades para realizar ejecuciones interactivas en 2D, aplicando físicas integradas y diseñando *assets* originales.
 
-#### Proyectos:
-1. **BRICK, SHARK n’ BREAK**  
-   ![Logo](static/IMG/briksnblogo.png)  
-   Juego estilo *pong break bricks* con personalizaciones como Xenomorfos y tiburones.
+### Incursión en Videojuegos 2D
 
-2. **U.F.O. SCAPE PLAN**  
-   ![Logo](static/IMG/ufosplogo.png)  
-   Juego estilo *Flappy Bird* ambientado en el espacio.
+Exploración con Godot Engine 4.3 para crear videojuegos interactivos en 2D, manejando físicas integradas y diseño de assets.
 
-3. **QUETZ**  
-   ![Logo](static/IMG/QUETZ-LOGO.png)  
-   Versión adaptada de *UFO SCAPE PLAN*, optimizada para un evento académico en 2024.
-
-4. **GALACTRIP**  
-   ![Logo](static/IMG/galactriplogo.png)  
-   Primer juego de plataformas en desarrollo; beta disponible mediante DM.
-
-5. **KID**  
-   ![Logo](static/IMG/kidlogo.png)  
-   Juego educativo de matemáticas e informática, aún en desarrollo, con una beta funcional.
+![BRICK, SHARK n’ BREAK](static/IMG/briksnblogo.png)  
+**Juego tipo "pong break bricks" con personalizaciones como Xenomorphos y tiburones.**
 
 ---
 
-## Robotiks_&_Dynamics
-### Proyectos destacados:
-Debido al proyecto "GARDEN ENGINEERING", se aprendió el uso de microcontroladores **Arduino** para experimentos y soluciones.
+![U.F.O. SCAPE PLAN](static/IMG/ufosplogo.png)  
+**Juego estilo "Flappy Bird" con un escenario galáctico.**
 
 ---
 
-## Audiovisual Division
-Descripción y proyectos en desarrollo enfocados en contenidos audiovisuales.
+![QUETZ](static/IMG/QUETZ-LOGO.png)  
+**Modificación de "UFO SCAPE PLAN" para la feria académica UPT 2024.**
 
 ---
 
-## Gear
+![GALACTRIP](static/IMG/galactriplogo.png)  
+**Primer juego de plataformas con beta disponible por DM en redes oficiales.**
+
+---
+
+![KID](static/IMG/kidlogo.png)  
+**Juego educativo de matemáticas e informática.**
+
+---
+
+## ROBOTIKS & DYNAMICS
+
+### Proyectos en Arduino
+
+Desarrollo enfocado en microcontroladores Arduino para solucionar necesidades del proyecto universitario "Garden Engineering".
+
+---
+
+## División Audiovisual
+
+### Descripción
+
+Proyectos de producción y edición audiovisual en constante desarrollo.
+
+---
+
+## GEAR
+
 ### Proyecto ARIES
-Optimización de materiales para una cadena de pedales de efectos para instrumentos musicales.
+
+Chasis modular para efectos de instrumentos musicales, adaptado a necesidades específicas.
+
+---
 
 ### Set Up
-Adaptaciones constantes en hardware y software para edición de contenido audiovisual.
+
+Descripción del equipo utilizado para la edición de contenido audiovisual.
 
 ---
 
-## General_Software
-### Proyectos:
-1. **Frank Calc-Lator**  
-   Calculadora educativa para fracciones, desarrollada en Python con GUI mediante Tkinter.  
+## PIXELBITS General Software Engineering
 
-   ![Frank Calc-Lator](static/IMG/FrankCalc-Lator/FrankCalc-Lator.jpg)  
-   Diseñada para jóvenes estudiantes, padres y tutores.
+### HTML
 
-2. **U.F.O.s**  
-   ![Propuesta](static/IMG/ufosIMG/U.F.OSlogo.png)  
-   Sistema operativo minimalista con integración de lenguas indígenas y diseño futurista.
+Avances preliminares de software desarrollado durante la carrera de Ingeniería en Software.
+
+---
+
+### Frank Calc-Lator
+
+Calculadora de apoyo para estudiantes y tutores en ejercicios de fracciones.
+
+![Frank Calc-Lator](static/IMG/FrankCalc-Lator/FrankCalc-Lator.jpg)
+
+- **Ingreso primera fracción:**  
+  ![Primera Fracción](static/IMG/FrankCalc-Lator/1rafraccion.png)
+
+- **Ingreso segunda fracción:**  
+  ![Segunda Fracción](static/IMG/FrankCalc-Lator/2daFraccion.png)
+
+- **Resultado - Suma:**  
+  ![Resultado Suma](static/IMG/FrankCalc-Lator/fac1Suma.png)
+
+Desarrollado en Python con librerías matemáticas y GUI mediante Tkinter.
+
+---
+
+### U.F.Os
+
+Propuesta para un sistema operativo mexicano, minimalista y con integración de lenguas indígenas.
+
+![U.F.Os Logo](static/IMG/ufosIMG/U.F.OSlogo.png)
 
 ---
 <footer style="width: 100%; text-align: center;">
