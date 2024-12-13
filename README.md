@@ -54,7 +54,7 @@ Mediante **GODOT 4.3**, exploramos capacidades para realizar ejecuciones interac
 
 ---
 
-## Robotiks & Dynamics
+## Robotiks_&_Dynamics
 ### Proyectos destacados:
 Debido al proyecto "GARDEN ENGINEERING", se aprendió el uso de microcontroladores **Arduino** para experimentos y soluciones.
 
@@ -74,7 +74,7 @@ Adaptaciones constantes en hardware y software para edición de contenido audiov
 
 ---
 
-## General Software
+## General_Software
 ### Proyectos:
 1. **Frank Calc-Lator**  
    Calculadora educativa para fracciones, desarrollada en Python con GUI mediante Tkinter.  
