@@ -9,11 +9,11 @@ Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divis
 ---
 
 ## Navegación
-- [Presentación](#presentacion)
-- [Videojuegos](#videogame)
-- [Robotiks & Dynamics](#robotiks)
+- [Presentación](#presentación)
+- [Videojuegos](#Videojuegos)
+- [Robotiks & Dynamics](#Robotiks&Dynamics)
 - [Gear](#gear)
-- [General Software](#gensoft)
+- [General Software](#GeneralSoftware)
 
 ---
 
