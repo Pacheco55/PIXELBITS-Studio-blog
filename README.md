@@ -1,138 +1,87 @@
-# PIXEL BITS Blog
+<!DOCTYPE html>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portafolio digital de proyectos, trabajos, ideas y seguimiento de lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación y con detalle del equipo empleado, bajo la dirección de Julio C. Pacheco, estudiante de la carrera de ingeniería en software">
 
----
+</head>
 
-## Navegación
-- [Presentación](#presentación)
-- [Videojuegos](#Videojuegos)
-- [Robotiks_&_Dynamics](#Robotiks_&_Dynamics)
-- [Gear](#gear)
-- [General_Software](#General_Software)
+<body>
+    <header>
+        <h1 class="gugi-regular" id="tituloblog">
+            Blog PIXEL BITS STUDIOS
+        </h1>
+    </header>
 
----
-## Presentación
+   <nav>
+        <a href="#presentacion">Presentación</a>
+        <a href="#videogame">Videojuegos</a>
+        <a href="#robotiks">Robotiks&Dynamics</a>
+        <a href="#gear">Gear</a>
+        <a href="#gensoft">General Software</a>
+    </nav>
 
-**Portafolio digital de proyectos, trabajos, ideas y seguimiento**  
-Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación, bajo la dirección de **Julio C. Pacheco**, estudiante de ingeniería en software.
+   <section id="presentacion" class="container">
+        <article>
+            <h2 class="gugi-regular">Seguimiento de Proyectos</h2>
+            <p class="textoparrafo">Archivo digital en línea que recopila los avances, propuestas y nuevas ideas en las que se trabaja dentro del estudio PIXEL BITS.</p>
+            <a href="static/IMG/pblogo.png">
+                <img src="static/IMG/pblogo.png" alt="Logo vigente de PIXELBITS studios.">
+            </a>
+            <a download="static/IMG/pblogo.png" href="static/IMG/pblogo.png">
+                <p class="pieFoto">pblogo.png, sin texto y a color, download.</p>
+            </a>
+        </article>
+    </section>
 
-### Seguimiento de Proyectos
+   <section id="videogame" class="container">
+        <article>
+            <h2 class="gugi-regular">Incursión en videojuegos 2D</h2>
+            <p class="textoparrafo">Mediante la herramienta "GODOT" en su versión 4.3 se exploran las capacidades del software para realizar ejecuciones interactivas en 2D, manejando físicas integradas y diseño de assets originales.</p>
 
-Archivo digital en línea que recopila los avances, propuestas y nuevas ideas desarrolladas dentro del estudio PIXEL BITS.
+   <a href="static/IMG/briksnblogo.png">
+                <img src="static/IMG/briksnblogo.png" alt="Logo de juego BRICK, SHARKn´BREAK">
+            </a>
+            <p class="imgDescription">Juego tipo "pong break bricks", con personalizaciones que incluyen tiburones de "JAWS".</p>
+        </article>
+    </section>
 
-![Logo de PIXELBITS studios](static/IMG/pblogo.png)
+  <section id="robotiks" class="container">
+        <article>
+            <h2 class="gugi-regular">ROBOTIKS & DYNAMICS</h2>
+            <p class="textoparrafo">Debido a la necesidad latente dentro del proyecto universitario "GARDEN ENGINEERING", se emprende en el aprendizaje del entorno de desarrollo para microcontroladores tipo ARDUINO.</p>
+        </article>
+    </section>
 
-[Descargar Logo sin texto y a color (pblogo.png)](static/IMG/pblogo.png)
+   <section id="gear" class="container">
+        <article>
+            <h2 class="gugi-regular">GEAR</h2>
+            <p class="textoparrafo">El proyecto ARIES es un chasis optimizado para soportar una cadena de pedales de efectos musicales, en constante transformación y adaptación a necesidades específicas.</p>
+        </article>
+    </section>
 
----
+   <section id="gensoft" class="container">
+        <article>
+            <h2 class="gugi-regular">PIXELBITS GENERAL SOFTWARE ENGINEERING</h2>
+            <p class="textoparrafo">Avances preliminares y trabajos terminados de software para la carrera de ingeniería en software.</p>
+        </article>
+    </section>
 
-## Videojuegos
+  
+  <footer>
+        <table style="width: 100%; height:auto; text-align: center;">
+            <tr><!-- filas , table rows -->
+                <th> Comentarios </th><!-- table head --> 
+                <th> <a target="_blank" href="https://www.instagram.com/pixelbits_studios/m">INSTAGRAM</a></th>
+                <th> <a href="#tituloblog">Ir al comienzo</a> </th>
+            </tr>
+        </table>
+        <p>Copyright 2024 by PIXEL BITS STUDIOS &copy; </p>
 
-### Incursión en Videojuegos 2D
+  <p>Desarrollado por Julio C. Pacheco</p>
+   </footer>
+</body>
 
-Exploración con Godot Engine 4.3 para crear videojuegos interactivos en 2D, manejando físicas integradas y diseño de assets.
-
-![BRICK, SHARK n’ BREAK](static/IMG/briksnblogo.png)  
-**Juego tipo "pong break bricks" con personalizaciones como Xenomorphos y tiburones.**
-
----
-
-![U.F.O. SCAPE PLAN](static/IMG/ufosplogo.png)  
-**Juego estilo "Flappy Bird" con un escenario galáctico.**
-
----
-
-![QUETZ](static/IMG/QUETZ-LOGO.png)  
-**Modificación de "UFO SCAPE PLAN" para la feria académica UPT 2024.**
-
----
-
-![GALACTRIP](static/IMG/galactriplogo.png)  
-**Primer juego de plataformas con beta disponible por DM en redes oficiales.**
-
----
-
-![KID](static/IMG/kidlogo.png)  
-**Juego educativo de matemáticas e informática.**
-
----
-
-## ROBOTIKS & DYNAMICS
-
-### Proyectos en Arduino
-
-Desarrollo enfocado en microcontroladores Arduino para solucionar necesidades del proyecto universitario "Garden Engineering".
-
----
-
-## División Audiovisual
-
-### Descripción
-
-Proyectos de producción y edición audiovisual en constante desarrollo.
-
----
-
-## GEAR
-
-### Proyecto ARIES
-
-Chasis modular para efectos de instrumentos musicales, adaptado a necesidades específicas.
-
----
-
-### Set Up
-
-Descripción del equipo utilizado para la edición de contenido audiovisual.
-
----
-
-## General_Software
-
-### HTML
-
-Avances preliminares de software desarrollado durante la carrera de Ingeniería en Software.
-
----
-
-### Frank Calc-Lator
-
-Calculadora de apoyo para estudiantes y tutores en ejercicios de fracciones.
-
-![Frank Calc-Lator](static/IMG/FrankCalc-Lator/FrankCalc-Lator.jpg)
-
-- **Ingreso primera fracción:**  
-  ![Primera Fracción](static/IMG/FrankCalc-Lator/1rafraccion.png)
-
-- **Ingreso segunda fracción:**  
-  ![Segunda Fracción](static/IMG/FrankCalc-Lator/2daFraccion.png)
-
-- **Resultado - Suma:**  
-  ![Resultado Suma](static/IMG/FrankCalc-Lator/fac1Suma.png)
-
-Desarrollado en Python con librerías matemáticas y GUI mediante Tkinter.
-
----
-
-### U.F.Os
-
-Propuesta para un sistema operativo mexicano, minimalista y con integración de lenguas indígenas.
-
-![U.F.Os Logo](static/IMG/ufosIMG/U.F.OSlogo.png)
-
----
-<footer style="width: 100%; text-align: center;">
-  <!-- Contenedor de tabla para organizar enlaces -->
-  <table style="width: 100%; height:auto; text-align: center;">
-    <tr>
-      <!-- Títulos -->
-      <th>Comentarios</th>
-      <th><a target="_blank" href="https://www.instagram.com/pixelbits_studios/m">INSTAGRAM</a></th>
-      <th><a href="#tituloblog">Ir al comienzo</a></th>
-    </tr>
-  </table>
-  <!-- Leyenda de copyright -->
-  <p>Copyright 2024 by PIXEL BITS STUDIOS &copy;</p>
-</footer>
-
-
+</html>
