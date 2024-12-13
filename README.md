@@ -1,6 +1,20 @@
 # PIXEL BITS Blog
 
+
+---
+
+## Navegación
+- [Presentación](#presentación)
+- [Videojuegos](#Videojuegos)
+- [Robotiks_&_Dynamics](#Robotiks_&_Dynamics)
+- [Gear](#gear)
+- [General_Software](#General_Software)
+
+---
 ## Presentación
+
+**Portafolio digital de proyectos, trabajos, ideas y seguimiento**  
+Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación, bajo la dirección de **Julio C. Pacheco**, estudiante de ingeniería en software.
 
 ### Seguimiento de Proyectos
 
@@ -73,7 +87,7 @@ Descripción del equipo utilizado para la edición de contenido audiovisual.
 
 ---
 
-## PIXELBITS General Software Engineering
+## General_Software
 
 ### HTML
 
