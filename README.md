@@ -1,138 +1,97 @@
-# PIXEL BITS Blog
+<h2 align="left">¡Hola 👋 👽 ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
+  <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
+  <h2>💚💚🤍🐍🦅🌵🤍❤️❤️</h2>
 
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pacheco55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="estadísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacheco55&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="lenguajes"  />
+</div>
 
----
+###
+<img align="right" height="150" src="static/IMG/pblogo.png"  />
 
-## Navegación
-- [Presentación](#presentación)
-- [Videojuegos](#Videojuegos)
-- [Robotiks_&_Dynamics](#Robotiks_&_Dynamics)
-- [Gear](#gear)
-- [General_Software](#General_Software)
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" height="30" alt="tkinter logo"  />
+</div>
 
----
-## Presentación
+###
+<div align="left">
 
-**Portafolio digital de proyectos, trabajos, ideas y seguimiento**  
-Detalla lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación, bajo la dirección de **Julio C. Pacheco**, estudiante de ingeniería en software.
+<a href="https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q">
 
-### Seguimiento de Proyectos
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
 
-Archivo digital en línea que recopila los avances, propuestas y nuevas ideas desarrolladas dentro del estudio PIXEL BITS.
+</a>
 
-![Logo de PIXELBITS studios](static/IMG/pblogo.png)
+</div>
 
-[Descargar Logo sin texto y a color (pblogo.png)](static/IMG/pblogo.png)
+<div align="left">
 
----
+<a href="https://www.tiktok.com/@pixelbits.studios">
 
-## Videojuegos
+<img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
 
-### Incursión en Videojuegos 2D
+</a>
 
-Exploración con Godot Engine 4.3 para crear videojuegos interactivos en 2D, manejando físicas integradas y diseño de assets.
+</div>
 
-![BRICK, SHARK n’ BREAK](static/IMG/briksnblogo.png)  
-**Juego tipo "pong break bricks" con personalizaciones como Xenomorphos y tiburones.**
+<div align="left">
 
----
+<a href="https://x.com/pixelbitstud">
 
-![U.F.O. SCAPE PLAN](static/IMG/ufosplogo.png)  
-**Juego estilo "Flappy Bird" con un escenario galáctico.**
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
 
----
+</a>
 
-![QUETZ](static/IMG/QUETZ-LOGO.png)  
-**Modificación de "UFO SCAPE PLAN" para la feria académica UPT 2024.**
+</div>
 
----
+<div align="left">
 
-![GALACTRIP](static/IMG/galactriplogo.png)  
-**Primer juego de plataformas con beta disponible por DM en redes oficiales.**
+<a href="https://www.twitch.tv/pixelbits_studio/about">
 
----
+<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
 
-![KID](static/IMG/kidlogo.png)  
-**Juego educativo de matemáticas e informática.**
+</a>
 
----
+</div>
 
-## ROBOTIKS & DYNAMICS
+<div align="left">
 
-### Proyectos en Arduino
+<a href="https://github.com/Pacheco55/PIXELBITS-Studio-blog/tree/HTMLpbsb">
 
-Desarrollo enfocado en microcontroladores Arduino para solucionar necesidades del proyecto universitario "Garden Engineering".
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
 
----
+</a>
 
-## División Audiovisual
+</div>
 
-### Descripción
+###
+<br clear="both">
 
-Proyectos de producción y edición audiovisual en constante desarrollo.
+## Acerca de PIXEL BITS Studios
 
----
+- 🎮 Desarrollando videojuegos 2D con Godot Engine 4.3
+- 🤖 Trabajando en proyectos con Arduino
+- 🎵 Creando soluciones de audio como el proyecto ARIES
+- 💻 Desarrollando software educativo como Frank Calc-Lator
+- 🌟 Explorando la creación de un sistema operativo mexicano (U.F.Os)
 
-## GEAR
+## Proyectos Destacados
 
-### Proyecto ARIES
+- 🎮 BRICK, SHARK n' BREAK - Juego tipo "pong break bricks"
+- 🛸 U.F.O. SCAPE PLAN - Estilo "Flappy Bird" en el espacio
+- 🦅 QUETZ - Proyecto para la feria académica UPT 2024
+- 🌌 GALACTRIP - Juego de plataformas en beta
+- 📚 KID - Software educativo de matemáticas
 
-Chasis modular para efectos de instrumentos musicales, adaptado a necesidades específicas.
-
----
-
-### Set Up
-
-Descripción del equipo utilizado para la edición de contenido audiovisual.
-
----
-
-## General_Software
-
-### HTML
-
-Avances preliminares de software desarrollado durante la carrera de Ingeniería en Software.
-
----
-
-### Frank Calc-Lator
-
-Calculadora de apoyo para estudiantes y tutores en ejercicios de fracciones.
-
-![Frank Calc-Lator](static/IMG/FrankCalc-Lator/FrankCalc-Lator.jpg)
-
-- **Ingreso primera fracción:**  
-  ![Primera Fracción](static/IMG/FrankCalc-Lator/1rafraccion.png)
-
-- **Ingreso segunda fracción:**  
-  ![Segunda Fracción](static/IMG/FrankCalc-Lator/2daFraccion.png)
-
-- **Resultado - Suma:**  
-  ![Resultado Suma](static/IMG/FrankCalc-Lator/fac1Suma.png)
-
-Desarrollado en Python con librerías matemáticas y GUI mediante Tkinter.
-
----
-
-### U.F.Os
-
-Propuesta para un sistema operativo mexicano, minimalista y con integración de lenguas indígenas.
-
-![U.F.Os Logo](static/IMG/ufosIMG/U.F.OSlogo.png)
-
----
-<footer style="width: 100%; text-align: center;">
-  <!-- Contenedor de tabla para organizar enlaces -->
-  <table style="width: 100%; height:auto; text-align: center;">
-    <tr>
-      <!-- Títulos -->
-      <th>Comentarios</th>
-      <th><a target="_blank" href="https://www.instagram.com/pixelbits_studios/m">INSTAGRAM</a></th>
-      <th><a href="#tituloblog">Ir al comienzo</a></th>
-    </tr>
-  </table>
-  <!-- Leyenda de copyright -->
-  <p>Copyright 2024 by PIXEL BITS STUDIOS &copy;</p>
-</footer>
-
-
+<p>Copyright 2025 by PIXEL BITS STUDIOS &copy;</p>
