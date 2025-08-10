@@ -1,87 +1,194 @@
-<!DOCTYPE html>
-<html lang="es">
+# PIXEL BITS STUDIOS
+### *Engineering the Future, One Bit at a Time*
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portafolio digital de proyectos, trabajos, ideas y seguimiento de lo laborado en los estudios PIXEL BITS, México, en sus diferentes divisiones de implementación y con detalle del equipo empleado, bajo la dirección de Julio C. Pacheco, estudiante de la carrera de ingeniería en software">
+![Version](https://img.shields.io/badge/Version-2025.1-00ff41)
+![Status](https://img.shields.io/badge/Status-Active%20Development-ff6b35)
+![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue)
 
-</head>
+---
 
-<body>
-    <header>
-        <h1 class="gugi-regular" id="tituloblog">
-            Blog PIXEL BITS STUDIOS
-        </h1>
-    </header>
+## 🎯 **MISSION CONTROL**
 
-   <nav>
-        <a href="#presentacion">Presentación</a>
-        <a href="#videogame">Videojuegos</a>
-        <a href="#robotiks">Robotiks&Dynamics</a>
-        <a href="#gear">Gear</a>
-        <a href="#gensoft">General Software</a>
-    </nav>
+> Laboratorio digital de innovación tecnológica enfocado en el desarrollo de soluciones avanzadas que integran hardware, software y sistemas distribuidos. Dirigido por **Julio C. Pacheco**, Estudiante de Ingenieria en Software.
 
-   <section id="presentacion" class="container">
-        <article>
-            <h2 class="gugi-regular">Seguimiento de Proyectos</h2>
-            <p class="textoparrafo">Archivo digital en línea que recopila los avances, propuestas y nuevas ideas en las que se trabaja dentro del estudio PIXEL BITS.</p>
-            <a href="static/IMG/pblogo.png">
-                <img src="static/IMG/pblogo.png" alt="Logo vigente de PIXELBITS studios.">
-            </a>
-            <a download="static/IMG/pblogo.png" href="static/IMG/pblogo.png">
-                <p class="pieFoto">pblogo.png, sin texto y a color, download.</p>
-            </a>
-        </article>
-    </section>
+---
 
-   <section id="videogame" class="container">
-        <article>
-            <h2 class="gugi-regular">Incursión en videojuegos 2D</h2>
-            <p class="textoparrafo">Mediante la herramienta "GODOT" en su versión 4.3 se exploran las capacidades del software para realizar ejecuciones interactivas en 2D, manejando físicas integradas y diseño de assets originales.</p>
+## 🛠️ **ACTIVE PROJECTS**
 
-   <a href="static/IMG/briksnblogo.png">
-                <img src="static/IMG/briksnblogo.png" alt="Logo de juego BRICK, SHARKn´BREAK">
-            </a>
-            <p class="imgDescription">Juego tipo "pong break bricks", con personalizaciones que incluyen tiburones de "JAWS".</p>
-        </article>
-    </section>
+### 🔐 **CYBERSECURITY & NETWORK INTELLIGENCE**
+```
+├── 🐉 Kali Linux Testing Suite
+├── 🔒 MQTT Security Protocol Implementation  
+├── 🛡️ Python-based Tools
+└── 📡 Network Traffic Analysis & Monitoring
+```
 
-  <section id="robotiks" class="container">
-        <article>
-            <h2 class="gugi-regular">ROBOTIKS & DYNAMICS</h2>
-            <p class="textoparrafo">Debido a la necesidad latente dentro del proyecto universitario "GARDEN ENGINEERING", se emprende en el aprendizaje del entorno de desarrollo para microcontroladores tipo ARDUINO.</p>
-        </article>
-    </section>
+**Tech Stack:** `Kali Linux` `Python` `MQTT` `Network Security` `Ethical Hacking`
 
-   <section id="gear" class="container">
-        <article>
-            <h2 class="gugi-regular">GEAR</h2>
-            <p class="textoparrafo">El proyecto ARIES es un chasis optimizado para soportar una cadena de pedales de efectos musicales, en constante transformación y adaptación a necesidades específicas.</p>
-        </article>
-    </section>
+---
 
-   <section id="gensoft" class="container">
-        <article>
-            <h2 class="gugi-regular">PIXELBITS GENERAL SOFTWARE ENGINEERING</h2>
-            <p class="textoparrafo">Avances preliminares y trabajos terminados de software para la carrera de ingeniería en software.</p>
-        </article>
-    </section>
+### 🤖 **EMBEDDED SYSTEMS & IoT**
+```
+├── 📻 LoRa Long-Range Communication Networks
+├── ⚡ STM32 Microcontroller Development
+├── 🔗 MQTT IoT Device Integration
+└── 📊 Real-time Sensor Data Processing
+```
 
-  
-  <footer>
-        <table style="width: 100%; height:auto; text-align: center;">
-            <tr><!-- filas , table rows -->
-                <th> Comentarios </th><!-- table head --> 
-                <th> <a target="_blank" href="https://www.instagram.com/pixelbits_studios/m">INSTAGRAM</a></th>
-                <th> <a href="#tituloblog">Ir al comienzo</a> </th>
-            </tr>
-        </table>
-        <p>Copyright 2024 by PIXEL BITS STUDIOS &copy; </p>
+**Tech Stack:** `STM32` `LoRa` `MQTT` `C/C++` `Python` `Arduino Framework`
 
-  <p>Desarrollado por Julio C. Pacheco</p>
-   </footer>
-</body>
+---
 
-</html>
+### 🎮 **INTERACTIVE DIGITAL EXPERIENCES**
+```
+├── 🕹️ BRICK SHARK'N'BREAK - 2D Physics Game
+├── 🎯 Godot 4.3 Game Engine Mastery
+├── 🎨 Original Asset Design & Animation
+└── ⚙️ Advanced Physics Integration
+```
+
+**Tech Stack:** `Godot Engine` `GDScript` `2D Physics` `Asset Design`
+
+---
+
+### 🌐 **3D VISUALIZATION & MODELING**
+```
+├── 🎭 Blender 3D Advanced Modeling
+├── 🏗️ 3D Models Visualization
+├── 🔧 Product Design & Prototyping
+└── 🎬 Animation & Rendering Pipeline
+```
+
+**Tech Stack:** `Blender` `Python Scripting` `3D Modeling` `Animation`
+
+---
+
+### ⚡ **HARDWARE ENGINEERING**
+```
+├── 🎸 ARIES - Modular Effects Pedal Chassis
+├── 🌱 GARDEN ENGINEERING - Smart Agriculture
+├── 🔧 Custom PCB Design & Manufacturing
+└── 📐 Precision Mechanical Engineering
+```
+
+**Tech Stack:** `3D Design` `PCB Development` `Microcontroller Integration`
+
+---
+
+### 💾 **SOFTWARE ENGINEERING**
+```
+├── 🐍 Python Development
+├── 📡 MQTT Broker & Client Implementation
+├── 🌐 Distributed Systems Architecture
+└── 🔄 Real-time Data Processing
+```
+
+**Tech Stack:** `Python` `MQTT` `Asyncio` `Network Programming` `Data Structures`
+
+---
+
+## 🔬 **RESEARCH & DEVELOPMENT**
+
+### **Current Focus Areas:**
+- 🛰️ **IoT Security:** MQTT protocol security implementations
+- 🔍 **Pen Testing:** Automated vulnerability discovery 
+- 📡 **LoRa Networks:** Long-range communication for remote monitoring
+- 🧠 **STM32 Programming:** Real-time embedded systems development
+- 🎨 **3D Pipeline:** Blender automation through Python scripting
+
+---
+
+## 📊 **TECHNICAL ARSENAL**
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🔧 Hardware**
+- STM32 Microcontrollers
+- ESP32 Devkits
+- LoRa Communication Modules
+- Arduino Compatible Boards
+- Custom PCB Design
+- Sensors Various Integrations
+
+</td>
+<td valign="top" width="33%">
+
+**💻 Software**
+- Python 
+- C/C++ (Embedded)
+- GDScript (Godot)
+- MQTT Protocol
+- Linux System Administration
+
+</td>
+<td valign="top" width="33%">
+
+**🛡️ Security**
+- Kali Linux
+- Pen Testing
+- Network Security
+- Vulnerability Assessment
+- Microcontrollers
+- Audio Visuals
+- Rock & Roll
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 **INNOVATION METRICS**
+
+```
+🔥 Active Projects: 10+
+⚡ Technologies : 15+
+🚀 Completed Prototypes: 8
+🔬 R&D Hours: 500+ (2023-TODAY 2025)
+```
+
+---
+
+## 🤝 **COLLABORATION NETWORK**
+
+| Platform | Purpose | Status |
+|----------|---------|---------|
+| 📷 [Instagram](https://www.instagram.com/pixelbits_studios/) | Project Showcase | Active |
+| 💼 GitHub | Code Repository | Active |
+| 🌐 Portfolio | Technical Documentation | Live |
+
+---
+
+## 📈 **DEVELOPMENT ROADMAP**
+
+**Q3 2025**
+- [ ] Advanced LoRa Mesh Network Implementation
+- [ ] ESP32-based Security Module
+- [ ] Blender Python Automation Suite
+- [ ] MQTT Cybersecurity Framework
+
+**Q4 2025**
+- [ ] IoT Pen Testing Toolkit
+- [ ] 3D Visualization Engine
+- [ ] Embedded Security Protocols
+- [ ] Open Source Project Launch
+
+---
+
+<div align="center">
+
+### *"Imagine - Create - Enjoy"*
+
+**🔮  Built Today | Engineered for Tomorrow | Secured Forever**
+
+---
+
+**© 2025 PIXEL BITS STUDIOS** | Developed by **Julio C. Pacheco**
+
+*Santa Ana Nextlalpan, México* 🇲🇽
+
+[![Profile Views](https://komarev.com/ghpvc/?username=pixelbits&color=00ff41&style=flat-square&label=Repository+Views)](https://github.com/pixelbits)
+
+</div>
