@@ -185,9 +185,9 @@
 
 ---
 
-**© 2025 PIXEL BITS STUDIOS** | Developed by **Julio C. Pacheco**
+**© 2025 PIXEL BITS STUDIOS** | Developed by ** Julio C. Pacheco 5 **
 
-*Santa Ana Nextlalpan, México* 🇲🇽
+**[Instagram](https://www.instagram.com/pixelbits_studios/) | [YouTube](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q) | [Twitter](https://x.com/pixelbitstud) | [Twitch](https://www.twitch.tv/pixelbits_studio/about)**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pixelbits&color=00ff41&style=flat-square&label=Repository+Views)](https://github.com/pixelbits)
 
