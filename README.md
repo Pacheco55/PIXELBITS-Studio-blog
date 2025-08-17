@@ -1,4 +1,6 @@
-# PIXEL BITS STUDIOS
+<img width="512" height="197"  alt="Image" src="https://github.com/user-attachments/assets/c867db8c-df22-4b63-b3f2-5966e7cf40f1" />
+
+
 ### *Engineering the Future, One Bit at a Time*
 
 ![Version](https://img.shields.io/badge/Version-2025.1-00ff41)
@@ -7,15 +9,23 @@
 
 ---
 
-## 🎯 **MISSION CONTROL**
+##  **MISSION CONTROL**
 
 > Laboratorio digital de innovación tecnológica enfocado en el desarrollo de soluciones avanzadas que integran hardware, software y sistemas distribuidos. Dirigido por **Julio C. Pacheco**, Estudiante de Ingenieria en Software.
 
+<img width="540" height="310" alt="Image" src="https://github.com/user-attachments/assets/a2c018ec-0135-4093-9ba3-d78006bd23bf" />
+
+
 ---
 
-## 🛠️ **ACTIVE PROJECTS**
+##  **ACTIVE PROJECTS**
 
 ### 🔐 **CYBERSECURITY & NETWORK INTELLIGENCE**
+
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/7b7a9bb9-2599-41c1-ab23-19c4a3ca40f0" />
+
+
+
 ```
 ├── 🐉 Kali Linux Testing Suite
 ├── 🔒 MQTT Security Protocol Implementation  
@@ -27,7 +37,11 @@
 
 ---
 
-### 🤖 **EMBEDDED SYSTEMS & IoT**
+###  **EMBEDDED SYSTEMS & IoT**
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/0bfddaea-6167-45c9-9571-ae6949572989" />
+
+
+
 ```
 ├── 📻 LoRa Long-Range Communication Networks
 ├── ⚡ STM32 Microcontroller Development
@@ -39,7 +53,11 @@
 
 ---
 
-### 🎮 **INTERACTIVE DIGITAL EXPERIENCES**
+###  **INTERACTIVE DIGITAL EXPERIENCES**
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/b676c309-bec7-4de6-bce9-886bd1caa295" />
+
+
+
 ```
 ├── 🕹️ BRICK SHARK'N'BREAK - 2D Physics Game
 ├── 🎯 Godot 4.3 Game Engine Mastery
@@ -51,7 +69,11 @@
 
 ---
 
-### 🌐 **3D VISUALIZATION & MODELING**
+###  **3D VISUALIZATION & MODELING**
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/10fccb30-6387-4a55-a533-738822c84fd6" />
+
+
+
 ```
 ├── 🎭 Blender 3D Advanced Modeling
 ├── 🏗️ 3D Models Visualization
@@ -63,7 +85,12 @@
 
 ---
 
-### ⚡ **HARDWARE ENGINEERING**
+###  **HARDWARE ENGINEERING**
+
+![Image](https://github.com/user-attachments/assets/ca77ad30-e7c5-4ab9-9089-93c36f52e651)
+
+
+
 ```
 ├── 🎸 ARIES - Modular Effects Pedal Chassis
 ├── 🌱 GARDEN ENGINEERING - Smart Agriculture
@@ -75,7 +102,11 @@
 
 ---
 
-### 💾 **SOFTWARE ENGINEERING**
+###  **SOFTWARE ENGINEERING**
+<img width="768" height="512" alt="Image" src="https://github.com/user-attachments/assets/e3f387dd-2b8a-4965-a6e5-206827086ab8" />
+
+
+
 ```
 ├── 🐍 Python Development
 ├── 📡 MQTT Broker & Client Implementation
@@ -87,7 +118,7 @@
 
 ---
 
-## 🔬 **RESEARCH & DEVELOPMENT**
+##  **RESEARCH & DEVELOPMENT**
 
 ### **Current Focus Areas:**
 - 🛰️ **IoT Security:** MQTT protocol security implementations
@@ -98,7 +129,7 @@
 
 ---
 
-## 📊 **TECHNICAL ARSENAL**
+##  **TECHNICAL ARSENAL**
 
 <table>
 <tr>
@@ -115,7 +146,7 @@
 </td>
 <td valign="top" width="33%">
 
-**💻 Software**
+** Software**
 - Python 
 - C/C++ (Embedded)
 - GDScript (Godot)
@@ -125,7 +156,7 @@
 </td>
 <td valign="top" width="33%">
 
-**🛡️ Security**
+** Security**
 - Kali Linux
 - Pen Testing
 - Network Security
@@ -140,28 +171,28 @@
 
 ---
 
-## 🌟 **INNOVATION METRICS**
+##  **INNOVATION METRICS**
 
 ```
-🔥 Active Projects: 10+
-⚡ Technologies : 15+
-🚀 Completed Prototypes: 8
-🔬 R&D Hours: 500+ (2023-TODAY 2025)
+🔥 Proyectos Activos : 10+
+⚡ Technologias : 15+
+🚀 Prototipos Completados: 8
+🔬 R&D Horas: 500+ (Ago 2023 - TODAY 2025)
 ```
 
 ---
 
-## 🤝 **COLLABORATION NETWORK**
+##  **COLLABORATION NETWORK**
 
 | Platform | Purpose | Status |
 |----------|---------|---------|
 | 📷 [Instagram](https://www.instagram.com/pixelbits_studios/) | Project Showcase | Active |
 | 💼 GitHub | Code Repository | Active |
-| 🌐 Portfolio | Technical Documentation | Live |
+| 🌐 TWITCH | Technical Demostrations | Live |
 
 ---
 
-## 📈 **DEVELOPMENT ROADMAP**
+##  **DEVELOPMENT ROADMAP**
 
 **Q3 2025**
 - [ ] Advanced LoRa Mesh Network Implementation
@@ -181,7 +212,8 @@
 
 ### *"Imagine - Create - Enjoy"*
 
-**🔮  Built Today | Engineered for Tomorrow | Secured Forever**
+**  Built Today | Engineered for Tomorrow | Secured Forever**
+**GRACIAS A LOS QUE TRADUJERON DEL INGLES ESTE README.md , LO HICE ASI PARA LLEGAR MAS LEJOS**
 
 ---
 
@@ -192,3 +224,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=pixelbits&color=00ff41&style=flat-square&label=Repository+Views)](https://github.com/pixelbits)
 
 </div>
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/245cf77c-6931-44a8-b3b3-5760af59f826" />
