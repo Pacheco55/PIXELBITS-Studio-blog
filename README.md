@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/e258738c-cec7-475c-b712-9279b6c65262)
+![Image](https://github.com/user-attachments/assets/c68fda1a-f0dc-4e88-bdd5-a7152dd6e147)
 
 <h2 align="left">¡Hola ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
   <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
