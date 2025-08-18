@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e258738c-cec7-475c-b712-9279b6c65262)
+
 <h2 align="left">¡Hola ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
   <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
   <h2> 💚💚🤍🐍🦅🌵🤍❤️❤️</h2>
@@ -225,7 +227,7 @@
 
 ---
 
-##  **INNOVATION METRICS**
+##  ** METRICS**
 
 ```
 🔥 Proyectos Activos : 10+
@@ -236,25 +238,13 @@
 
 ---
 
-##  **COLLABORATION NETWORK**
-
-| Platform | Purpose | Status |
-|----------|---------|---------|
-| 📷 [Instagram](https://www.instagram.com/pixelbits_studios/) | Project Showcase | Active |
-| 💼 GitHub | Code Repository | Active |
-| 🌐 TWITCH | Technical Demostrations | Live |
-
----
-
 ##  **DEVELOPMENT ROADMAP**
 
-**Q3 2025**
+**2025**
 - [ ] Advanced LoRa Mesh Network Implementation
 - [ ] ESP32-based Security Module
 - [ ] Blender Python Automation Suite
 - [ ] MQTT Cybersecurity Framework
-
-**Q4 2025**
 - [ ] IoT Pen Testing Toolkit
 - [ ] 3D Visualization Engine
 - [ ] Embedded Security Protocols
