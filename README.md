@@ -1,20 +1,26 @@
-![Image](https://github.com/user-attachments/assets/c68fda1a-f0dc-4e88-bdd5-a7152dd6e147)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c68fda1a-f0dc-4e88-bdd5-a7152dd6e147" alt="Image" />
+</div>
 
-<h2 align="left">¡Hola ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
-  <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
-  <h2> 💚💚🤍🐍🦅🌵🤍❤️❤️</h2>
+###
+
+<div align="center">
+  <img width="666" height="256" alt="Image" src="https://github.com/user-attachments/assets/c867db8c-df22-4b63-b3f2-5966e7cf40f1" />
+</div>
+
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pacheco55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="estadísticas"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacheco55&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="lenguajes"  />
+
 </div>
 
 ###
 
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -30,33 +36,8 @@
 
 </div>
 
-###
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
-  <a href="https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
 
-  <a href="https://www.tiktok.com/@pixelbits.studios">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
-  </a>
-
-  <a href="https://x.com/pixelbitstud">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-
-  <a href="https://www.twitch.tv/pixelbits_studio/about">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-
-  <a href="https://github.com/Pacheco55/PIXELBITS-Studio-blog/tree/HTMLpbsb">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-<!-- Imagen adicional -->
-<img width="512" height="197" alt="Image" src="https://github.com/user-attachments/assets/c867db8c-df22-4b63-b3f2-5966e7cf40f1" />
-
-
+<div align="center">
 
 ### *Engineering the Future, One Bit at a Time*
 
@@ -64,7 +45,13 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Development-ff6b35)
 ![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue)
 
+</div>
+
+
 ---
+<h2 align="left">¡Hola ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
+  <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
+  <h2> 💚💚🤍🐍🦅🌵🤍❤️❤️</h2>
 
 ##  **MISSION CONTROL**
 
@@ -263,8 +250,27 @@
 ---
 
 **© 2025 PIXEL BITS STUDIOS** | Developed by ** Julio C. Pacheco 5 **
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
+  <a href="https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
 
-**[Instagram](https://www.instagram.com/pixelbits_studios/) | [YouTube](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q) | [Twitter](https://x.com/pixelbitstud) | [Twitch](https://www.twitch.tv/pixelbits_studio/about)**
+  <a href="https://www.tiktok.com/@pixelbits.studios">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo" />
+  </a>
+
+  <a href="https://x.com/pixelbitstud">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+
+  <a href="https://www.twitch.tv/pixelbits_studio/about">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  </a>
+
+  <a href="https://github.com/Pacheco55/PIXELBITS-Studio-blog/tree/HTMLpbsb">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pixelbits&color=00ff41&style=flat-square&label=Repository+Views)](https://github.com/pixelbits)
 
