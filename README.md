@@ -49,6 +49,9 @@
 
 
 ---
+
+[![Newsletter PIXELBITS](https://img.shields.io/badge/🚀_PIXELBITS-Newsletter-orange?style=flat-square&labelColor=black)](https://dashboard.mailerlite.com/forms/FORM_ID/share)
+
 <h2 align="left">¡Hola ! Soy Julio C. Pacheco, estudiante de ingeniería en software </h2>
   <h2>y fundador de PIXEL BITS Studios, desde México  </h2>
   <h2> 💚💚🤍🐍🦅🌵🤍❤️❤️</h2>
