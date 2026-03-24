@@ -244,15 +244,9 @@
 
 ## 📬 ¿Te gustó este proyecto?
 
-¡Suscríbete al newsletter de PIXELBITS Studio!
+[![Newsletter PIXELBITS](https://img.shields.io/badge/🚀_Newsletter-Suscríbete-FF6B00?style=for-the-badge&logo=rss&logoColor=white&labelColor=0a0e27)](https://pacheco55.github.io/newsletter-subscribe/)
 
-[![Newsletter](https://img.shields.io/badge/🚀_Newsletter-Suscríbete-FF6B00?style=for-the-badge&logo=rss&logoColor=white&labelColor=0a0e27)](https://preview.mailerlite.io/forms/2218445/182853995210999171/share)
-
-**Recibirás:**
-- 🔔 Alertas de nuevos proyectos
-- 💻 Código fuente completo
-- 🎯 Tecnologías ESP32, IoT, Mobile Dev
-- ⚡ Soluciones innovadoras
+Recibe notificaciones automáticas de nuevos proyectos
 
 ---
 
